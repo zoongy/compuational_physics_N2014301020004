@@ -6,4 +6,6 @@
 
 - [x] Exercise_03: [The third homework: Move your name and let it rotate](https://www.zybuluo.com/zy-0815/note/511906)
 
+- [x] Exercose_04: [The forth homework: Problem 1.5](https://www.zybuluo.com/zy-0815/note/519269)
+
 
