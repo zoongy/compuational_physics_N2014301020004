@@ -10,4 +10,5 @@
 
 - [x] Exercise_05: [The fifth homework: Problem 2.7](https://www.zybuluo.com/zy-0815/note/532815)
 
+- [x] Exercise_06: [The sixth homework: Problem 2,10 Plus](https://www.zybuluo.com/zy-0815/note/540141)
 
