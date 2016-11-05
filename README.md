@@ -12,3 +12,4 @@
 
 - [x] Exercise_06: [The sixth homework: Problem 2,10 Plus](https://www.zybuluo.com/zy-0815/note/540141)
 
+- [x] Exercise_07: [The seventh homework: Problem 3.12, 3.13, 3.14](https://www.zybuluo.com/zy-0815/note/555610)
