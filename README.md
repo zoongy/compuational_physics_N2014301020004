@@ -17,3 +17,5 @@
 - [x] Exercise_08: [The eighth homework: Problem 3.18, 3.20](https://www.zybuluo.com/zy-0815/note/565372)
 
 - [x] Exercise_09: [The ninth homework: Problem 3.30](https://www.zybuluo.com/zy-0815/note/572713)
+
+- [x] Exercise_10: [The tenth homework: Problem 4.8, 4.10](https://www.zybuluo.com/zy-0815/note/579180)
