@@ -23,3 +23,5 @@
 - [x] Exercise_11: [The eleventh homework: Problem 4.19, 4.20](https://www.zybuluo.com/zy-0815/note/588922)
 
 - [x] Exercise_12: [The twelfth homework: Problem 5.1, 5.4](https://www.zybuluo.com/zy-0815/note/596878)
+
+- [x] Exercise_13: [The thirteenth homework: Problem 6.9, 6.16](https://www.zybuluo.com/zy-0815/note/604096)
