@@ -1,9 +1,3 @@
-'''
-Random walk 1D
-Author: GUO Xiao
-2013301020099
-'''
-
 import numpy as np
 
 from pylab import *
